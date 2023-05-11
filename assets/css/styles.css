@@ -152,7 +152,7 @@ section.hero.hero-wrapper {
     flex-direction: row;
     align-items: center;
     gap: 30px;
-    height: 100vh;
+    height: 100%;
     padding: 0 60px 40px;
     margin: 25px 0;
 }
