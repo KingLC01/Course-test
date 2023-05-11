@@ -16,6 +16,10 @@ header.header.header-wrapper {
 
 }
 
+.mobile-header-nav__wrapper {
+    display: none;
+}
+
 @media only screen and (max-width: 768px) {
     header.header.header-wrapper {
         display: none;
